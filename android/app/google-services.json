@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075758706519",
+    "project_id": "backgroundtask-fa286",
+    "storage_bucket": "backgroundtask-fa286.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075758706519:android:9b3db04f2377675d9b1812",
+        "android_client_info": {
+          "package_name": "com.bgtask.backgroundtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAn_-hEn-OMJ4TJEf4e9VH2y6txfDvTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
